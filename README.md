@@ -40,3 +40,4 @@ Hieronder zijn de screenshots toegevoegd van de Postman requests:
 - **GET /tasks**: ![Get Tasks](./Schermafbeelding2024-08-15-224413.png)
 - **POST /users**: ![Post User](./Schermafbeelding2024-08-15-223310.png)
 - **POST /projects**: ![Post Project](./Schermafbeelding2024-08-15-223358.png)
+- 
